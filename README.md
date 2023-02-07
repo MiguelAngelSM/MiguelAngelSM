@@ -60,11 +60,6 @@
     <a href="https://www.lazarus-ide.org" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217126066-84f752e6-2792-4d64-bed6-27a5a78b1a58.png"
             alt="pascal" width="40" height="40" /> </a>
-    <a href="http://courses.missouristate.edu/kenvollmar/mars/" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/117299908/217125511-33b1359d-f352-4589-be79-05374e9a7aaa.jpg"
-            alt="mips" width="40" height="40" /> </a>
-
-
 </p>
 <h4 align="left">Advanced 😎:</h4>
 <p align="left">
@@ -91,6 +86,9 @@
     <a href="https://www.jetbrains.com/es-es/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"
             alt="jetbrains" width="40" height="40" /> </a>
+    <a href="http://courses.missouristate.edu/kenvollmar/mars/" target="_blank"> <img
+            src="https://user-images.githubusercontent.com/117299908/217125511-33b1359d-f352-4589-be79-05374e9a7aaa.jpg"
+            alt="mips" width="40" height="40" /> </a>
 <h4 align="left">Basic 😼:</h4>
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img
