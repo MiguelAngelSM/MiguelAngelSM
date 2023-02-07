@@ -77,6 +77,9 @@
             width="40" height="40" /> </a>
 </p>
 <h4 align="left">Medium ✔️:</h4>
+    <a href="http://www.uml.org" target="_blank"> <img
+            src="https://user-images.githubusercontent.com/117299908/217129798-db6b374a-8805-498f-b168-184479f0a071.png"
+            alt="uml" width="40" height="40" /> </a>
     <a href="https://github.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
             alt="github" width="40" height="40" /> </a>
