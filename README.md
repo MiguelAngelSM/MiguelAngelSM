@@ -39,9 +39,6 @@
 <h3 align="left">Languages and Tools 🛠️:</h3>
 <h4 align="left">Experienced 👨‍🎓:</h4>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-            alt="html5" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
@@ -63,6 +60,9 @@
 </p>
 <h4 align="left">Advanced 😎:</h4>
 <p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+            alt="html5" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
             alt="css3" width="40" height="40" /> </a>
@@ -89,9 +89,6 @@
     <a href="https://www.jetbrains.com/es-es/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"
             alt="jetbrains" width="40" height="40" /> </a>
-    <a href="http://courses.missouristate.edu/kenvollmar/mars/" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/117299908/217125511-33b1359d-f352-4589-be79-05374e9a7aaa.jpg"
-            alt="mips" width="40" height="40" /> </a>
 <h4 align="left">Basic 😼:</h4>
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img
@@ -109,7 +106,9 @@
     <a href="https://www.intel.es/content/www/es/es/software/programmable/quartus-prime/questa-edition.html" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217125640-b9103868-3405-46e9-9894-bcfd57ad2e7e.jpg"
             alt="modelsim" width="40" height="40" /> </a>
-
+        <a href="http://courses.missouristate.edu/kenvollmar/mars/" target="_blank"> <img
+            src="https://user-images.githubusercontent.com/117299908/217125511-33b1359d-f352-4589-be79-05374e9a7aaa.jpg"
+            alt="mips" width="40" height="40" /> </a>
 </p>
 
 <br>
