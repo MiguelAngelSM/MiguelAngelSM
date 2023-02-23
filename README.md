@@ -83,17 +83,14 @@
     <a href="https://github.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
             alt="github" width="40" height="40" /> </a>
-    <a href="https://git-scm.com" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-            alt="git" width="40" height="40" /> </a>
     <a href="https://www.jetbrains.com/es-es/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"
             alt="jetbrains" width="40" height="40" /> </a>
-<h4 align="left">Basic 😼:</h4>
-<p align="left">
     <a href="https://www.python.org" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
+<h4 align="left">Basic 😼:</h4>
+<p align="left">
     <a href="https://www.arduino.cc" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"
             alt="arduino" width="40" height="40" /> </a>
@@ -106,9 +103,12 @@
     <a href="https://www.intel.es/content/www/es/es/software/programmable/quartus-prime/questa-edition.html" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217125640-b9103868-3405-46e9-9894-bcfd57ad2e7e.jpg"
             alt="modelsim" width="40" height="40" /> </a>
-        <a href="http://courses.missouristate.edu/kenvollmar/mars/" target="_blank"> <img
+    <a href="http://courses.missouristate.edu/kenvollmar/mars/" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217125511-33b1359d-f352-4589-be79-05374e9a7aaa.jpg"
             alt="mips" width="40" height="40" /> </a>
+    <a href="https://spring.io" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
+            alt="spring" width="40" height="40" /> </a>
 </p>
 
 <br>
