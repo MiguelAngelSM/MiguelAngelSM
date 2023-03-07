@@ -57,6 +57,9 @@
     <a href="https://www.lazarus-ide.org" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217126066-84f752e6-2792-4d64-bed6-27a5a78b1a58.png"
             alt="pascal" width="40" height="40" /> </a>
+    <a href="https://www.java.com" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
+            alt="java" width="40" height="40" /> </a>
 </p>
 <h4 align="left">Advanced 😎:</h4>
 <p align="left">
@@ -72,9 +75,12 @@
     <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
             alt="bootstrap" width="40" height="40" /> </a>
-    <a href="https://www.java.com" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a>
+    <a href="https://spring.io" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
+            alt="spring" width="40" height="40" /> </a>
+    <a href="https://www.mysql.com" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+            alt="MySQL" width="40" height="40" /> </a>
 </p>
 <h4 align="left">Medium ✔️:</h4>
     <a href="http://www.uml.org" target="_blank"> <img
@@ -106,9 +112,12 @@
     <a href="http://courses.missouristate.edu/kenvollmar/mars/" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217125511-33b1359d-f352-4589-be79-05374e9a7aaa.jpg"
             alt="mips" width="40" height="40" /> </a>
-    <a href="https://spring.io" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
-            alt="spring" width="40" height="40" /> </a>
+    <a href="https://www.wireshark.org/download.html" target="_blank"> <img
+            src="https://user-images.githubusercontent.com/117299908/223472259-51c0f982-fe53-488c-849f-742941f7509e.png"
+            alt="whireshark" width="40" height="40" /> </a>
+    <a href="https://www.gams.com" target="_blank"> <img
+            src="https://user-images.githubusercontent.com/117299908/223472459-b53428a5-6d5c-42fa-8c71-1ad36c990322.png"
+            alt="gams" width="40" height="40" /> </a>
 </p>
 
 <br>
