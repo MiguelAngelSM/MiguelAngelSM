@@ -45,9 +45,6 @@
     <a href="https://nodejs.org" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
             alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://www.npmjs.com" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
-            alt="npm" width="40" height="40" /> </a>
     <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"
             alt="oracle" width="40" height="40" /> </a>
@@ -123,18 +120,14 @@
 <br>
 
 <h3>Statistical Data :</h3>
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelAngelSM&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-        alt="MiguelAngelSM" bg_color=#808080 /></p>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelSM&layout=compact&theme=tokyonight)
 
 <br>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=MiguelAngelSM&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-        alt="MiguelAngelSM" /></p>
+![MiguelAngelSM's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAngelSM&show_icons=true&theme=tokyonight)
 
 <br>
 
-<p><img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelAngelSM&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
-        alt="MiguelAngelSM" /></p>
+![MiguelAngelSM's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MiguelAngelSM&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
