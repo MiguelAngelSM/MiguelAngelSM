@@ -3,10 +3,9 @@
 
 <br>
 
-<p align="right">
-<h3>Profile Views 👁️:</h3> <img
-    src="https://komarev.com/ghpvc/?username=MiguelAngelSM&label=Profile%20views&color=8901CF&style=flat" />
-</p>
+<h3>Profile Views 👁️:</h3> 
+
+![Profile Views](https://komarev.com/ghpvc/?username=MiguelAngelSM&color=blueviolet)
 
 <br>
 
