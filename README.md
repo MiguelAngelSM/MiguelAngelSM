@@ -28,9 +28,6 @@
     <a href="https://www.instagram.com/werty__21/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             height="30" width="40" /></a>
-    <a href="https://twitter.com/21Werty21" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            height="30" width="40" /></a>
 </p>
 
 <br>
