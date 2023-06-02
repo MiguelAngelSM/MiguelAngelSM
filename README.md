@@ -74,6 +74,9 @@
     <a href="https://www.mysql.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
             alt="MySQL" width="40" height="40" /> </a>
+    <a href="https://www.typescriptlang.org" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+            alt="Typescript" width="40" height="40" /> </a>
 </p>
 <h4 align="left">Medium ✔️:</h4>
     <a href="http://www.uml.org" target="_blank"> <img
