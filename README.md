@@ -71,9 +71,6 @@
     <a href="https://spring.io" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
             alt="spring" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
-            alt="MySQL" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
             alt="Typescript" width="40" height="40" /> </a>
@@ -82,9 +79,6 @@
     <a href="http://www.uml.org" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217129798-db6b374a-8805-498f-b168-184479f0a071.png"
             alt="uml" width="40" height="40" /> </a>
-    <a href="https://github.com" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
-            alt="github" width="40" height="40" /> </a>
     <a href="https://www.jetbrains.com/es-es/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"
             alt="jetbrains" width="40" height="40" /> </a>
@@ -93,7 +87,14 @@
             alt="python" width="40" height="40" /> </a>
 <h4 align="left">Basic 😼:</h4>
 <p align="left">
-    <a href="https://www.arduino.cc" target="_blank"> <img
+
+<a href="https://github.com" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
+            alt="github" width="40" height="40" /> </a>
+</a>
+    <a href="https://www.mysql.com" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+            alt="MySQL" width="40" height="40" />    <a href="https://www.arduino.cc" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"
             alt="arduino" width="40" height="40" /> </a>
     <a href="https://isocpp.org" target="_blank"> <img
