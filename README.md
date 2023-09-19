@@ -41,9 +41,6 @@
     <a href="https://nodejs.org" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
             alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a>
     <a href="https://code.visualstudio.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
             alt="vscode" width="40" height="40" /> </a>
@@ -85,6 +82,9 @@
     <a href="https://www.python.org" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a>
+    <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"
+            alt="oracle" width="40" height="40" /> </a>
 <h4 align="left">Basic 😼:</h4>
 <p align="left">
 
