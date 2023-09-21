@@ -56,32 +56,26 @@
     <a href="https://tailwindcss.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
             alt="tailwindcss" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
-            alt="nodejs" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
             alt="Typescript" width="40" height="40" /> </a>
-    <a href="https://code.visualstudio.com" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
-            alt="vscode" width="40" height="40" /> </a>
     <a href="http://www.uml.org" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217129798-db6b374a-8805-498f-b168-184479f0a071.png"
             alt="uml" width="40" height="40" /> </a>
+    <a href="https://www.python.org" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a>
 </p>
 <h4 align="left">Medium ✔️:</h4>
+    <a href="https://nodejs.org" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
+            alt="nodejs" width="40" height="40" /> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
             alt="html5" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
             alt="css3" width="40" height="40" /> </a>
-    <a href="https://www.jetbrains.com/es-es/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"
-            alt="jetbrains" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
     <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"
             alt="oracle" width="40" height="40" /> </a>
@@ -105,9 +99,6 @@
     <a href="https://www.rstudio.com/tags/website/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"
             alt="rstudio" width="40" height="40" /> </a>
-    <a href="https://www.intel.es/content/www/es/es/software/programmable/quartus-prime/questa-edition.html" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/117299908/217125640-b9103868-3405-46e9-9894-bcfd57ad2e7e.jpg"
-            alt="modelsim" width="40" height="40" /> </a>
     <a href="http://courses.missouristate.edu/kenvollmar/mars/" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217125511-33b1359d-f352-4589-be79-05374e9a7aaa.jpg"
             alt="mips" width="40" height="40" /> </a>
