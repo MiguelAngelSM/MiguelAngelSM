@@ -38,47 +38,44 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.lazarus-ide.org" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/117299908/217126066-84f752e6-2792-4d64-bed6-27a5a78b1a58.png"
-            alt="pascal" width="40" height="40" /> </a>
-
     <a href="https://www.java.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
             alt="java" width="40" height="40" /> </a>
-
-<a href="https://spring.io" target="_blank"> <img          src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
+    <a href="https://spring.io" target="_blank"> <img          
+            src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
             alt="spring" width="40" height="40" /> </a>
-
+    <a href="https://www.lazarus-ide.org" target="_blank"> <img
+            src="https://user-images.githubusercontent.com/117299908/217126066-84f752e6-2792-4d64-bed6-27a5a78b1a58.png"
+            alt="pascal" width="40" height="40" /> </a>
 </p>
 <h4 align="left">Advanced 😎:</h4>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-            alt="html5" width="40" height="40" /> </a>
-    
+    <a href="https://es.wikipedia.org/wiki/SQL" target="_blank"> <img 
+            src="https://github.com/MiguelAngelSM/MiguelAngelSM/assets/117299908/ffcb467b-cbd4-4ab6-a307-0abc189bc446"
+            alt="SQL" width="40" height="40" /> </a>
     <a href="https://tailwindcss.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
             alt="tailwindcss" width="40" height="40" /> </a>
-
-<a href="https://nodejs.org" target="_blank"> <img
+    <a href="https://nodejs.org" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
             alt="nodejs" width="40" height="40" /> </a>
     <a href="https://www.typescriptlang.org" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
             alt="Typescript" width="40" height="40" /> </a>
-
-  <a href="https://code.visualstudio.com" target="_blank"> <img
+    <a href="https://code.visualstudio.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
             alt="vscode" width="40" height="40" /> </a>
-</p>
-<h4 align="left">Medium ✔️:</h4>
-
-<a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-            alt="css3" width="40" height="40" /> </a>
     <a href="http://www.uml.org" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217129798-db6b374a-8805-498f-b168-184479f0a071.png"
             alt="uml" width="40" height="40" /> </a>
+</p>
+<h4 align="left">Medium ✔️:</h4>
+    <a href="https://www.w3.org/html/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+            alt="html5" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+            alt="css3" width="40" height="40" /> </a>
     <a href="https://www.jetbrains.com/es-es/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"
             alt="jetbrains" width="40" height="40" /> </a>
@@ -90,17 +87,16 @@
             alt="oracle" width="40" height="40" /> </a>
 <h4 align="left">Basic 😼:</h4>
 <p align="left">
-
-<a href="https://getbootstrap.com" target="_blank"> <img
+    <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
             alt="bootstrap" width="40" height="40" /> </a>
-<a href="https://github.com" target="_blank"> <img
+    <a href="https://github.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"
             alt="github" width="40" height="40" /> </a>
-</a>
     <a href="https://www.mysql.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
-            alt="MySQL" width="40" height="40" />    <a href="https://www.arduino.cc" target="_blank"> <img
+            alt="MySQL" width="40" height="40" />    
+    <a href="https://www.arduino.cc" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"
             alt="arduino" width="40" height="40" /> </a>
     <a href="https://isocpp.org" target="_blank"> <img
@@ -115,12 +111,12 @@
     <a href="http://courses.missouristate.edu/kenvollmar/mars/" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217125511-33b1359d-f352-4589-be79-05374e9a7aaa.jpg"
             alt="mips" width="40" height="40" /> </a>
-    <a href="https://www.wireshark.org/download.html" target="_blank"> <img
-            src="https://user-images.githubusercontent.com/117299908/223472259-51c0f982-fe53-488c-849f-742941f7509e.png"
-            alt="whireshark" width="40" height="40" /> </a>
     <a href="https://www.gams.com" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/223472459-b53428a5-6d5c-42fa-8c71-1ad36c990322.png"
             alt="gams" width="40" height="40" /> </a>
+    <a href="https://www.wireshark.org/download.html" target="_blank"> <img
+            src="https://user-images.githubusercontent.com/117299908/223472259-51c0f982-fe53-488c-849f-742941f7509e.png"
+            alt="whireshark" width="40" height="40" /> </a>
 </p>
 
 <br>
