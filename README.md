@@ -41,13 +41,14 @@
     <a href="https://www.lazarus-ide.org" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217126066-84f752e6-2792-4d64-bed6-27a5a78b1a58.png"
             alt="pascal" width="40" height="40" /> </a>
+
     <a href="https://www.java.com" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
             alt="java" width="40" height="40" /> </a>
 
-<a href="https://spring.io" target="_blank"> <img
-            src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
+<a href="https://spring.io" target="_blank"> <img          src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
             alt="spring" width="40" height="40" /> </a>
+
 </p>
 <h4 align="left">Advanced 😎:</h4>
 <p align="left">
